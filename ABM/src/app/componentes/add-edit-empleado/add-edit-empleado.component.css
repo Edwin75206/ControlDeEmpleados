@@ -1,0 +1,15 @@
+.example-container{
+  width: 100%;
+}
+
+.btn-success{
+  background-color: #f44336;
+  float: right;
+}
+.btn-primary{
+  float: right;
+}
+
+.mda-form-msg{
+  color: #f44336;
+}
